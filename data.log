@@ -1,13 +1,1 @@
 WARNING:root:This is a warning message
-WARNING:root:This is a warning message
-WARNING:root:This is a warning message
-2024-02-12 06:36:23,162 Logged a message.
-2024-02-12 06:36:23,162 This is critical.
-2024-02-12 06:36:23,162 This is a Warning!
-2024-02-12 06:37:23,894 INFO: Calculation started...
-2024-02-12 06:37:23,894 INFO: 10 divided by 2 = 5.0
-2024-02-12 06:37:23,894 INFO: Done with division!
-2024-02-12 06:37:23,894 INFO: Done with calculations
-2024-02-12 06:37:23,894 INFO: Calculation started...
-2024-02-12 06:37:23,894 ERROR: Error occurred: division by zero
-2024-02-12 06:37:23,894 INFO: Done with calculations
