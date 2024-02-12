@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Board</title>
+</head>
+<body>
+    <header>
+        <h1>Latest Job Listings</h1>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/jobs">Browse Jobs</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <ul>
+            <h2>Job Listings</h2>
+
+            {% for job in job_list %}
+                <p>{{job.title}}</p>
+            {% endfor %}
+
+            
+
+
+        </ul>
+    </main>
+
+</body>
+</html>
